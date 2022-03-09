@@ -9,10 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5db39bc6fbc934543832bde4f1074d96, type: 3}
-  m_Name: Card
+  m_Script: {fileID: 11500000, guid: c3bb1236b6ef34994aa32d5b86f8c5ff, type: 3}
+  m_Name: Level
   m_EditorClassIdentifier: 
-  cardSet: 0
-  cardType: 0
-  rarity: 0
-  character: 0
+  map: {fileID: 0}
